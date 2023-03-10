@@ -1,0 +1,66 @@
+screen-heading {
+ margin-top:0;
+ font-size:28px;
+ text-align:center;
+ width:520px
+}
+
+.screen-description {
+ margin-top:0;
+ font-size: 18px;
+ width:520px;
+ text-align:center;
+ margin-bottom:30px
+}
+
+.additional-actions-container {
+ text-align:center;
+ background-color: peachpuff
+}
+
+.sign-in-button {
+ background-color:orange;
+ border-color:orange;
+ color:black;
+ font-size:18px
+}
+
+.footer-container {
+ border-top: none;
+ background-color:peachpuff
+}
+
+a.aic-control {
+ text-decoration:none;
+}
+
+.cancel-link {
+ display: block;
+ text-decoration:none
+}
+
+.traditional-signin {
+ position:relative;
+ margin-top:30px;
+ width:520px;
+ font-size: 18px
+}
+
+.forgot-password-link {
+ position: absolute;
+ right: 8px;
+ bottom:0;
+ color:blue;
+ font-size:18px;
+ text-decoration:none
+}
+
+.social-signin {
+ width:560px
+}
+
+.alternate-credentials {
+ font-size:18px;
+ margin-bottom:50px;
+ text-align:center
+}
